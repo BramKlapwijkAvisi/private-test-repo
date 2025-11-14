@@ -1,0 +1,6 @@
+@startuml
+!include https://github.com/avisi-apps/git-for-confluence-reference-cloud/blob/main/formats/plantuml/install_git_for_confluence.puml
+B->B : stuffB3
+C->C : stuffC3
+D->D : stuffD3
+@enduml
